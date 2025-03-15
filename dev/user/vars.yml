@@ -1,0 +1,4 @@
+user:
+  - name: "yokeh"
+    ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBjRr37LmJ5hiHrEQkFV3EKiCrpBI1Tq7auA1VCFa2+3 yokeh"
+  - name: "postgres"
