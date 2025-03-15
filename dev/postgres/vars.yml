@@ -1,1 +1,10 @@
 postgres:
+  users:
+    house:
+      password: "password"
+    apartment:
+      password: "password"
+    resident:
+      password: "password"
+  db_name: house
+
